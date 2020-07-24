@@ -1,0 +1,5 @@
+https://www.cssfontstack.com/Consolas
+
+https://fontawesome.com/v4.7.0/license/#:~:text=Font%20Awesome%20is%20fully%20open,http%3A%2F%2Ffontawesome.io%22.
+
+Attribution is no longer required as of Font Awesome 3.0 but is much appreciated: "Font Awesome by Dave Gandy - http://fontawesome.io".
