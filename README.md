@@ -5,6 +5,3 @@
 ![](images/listing/preview.png)
 
 #### Avoid messy bookmark managers and constantly changing "recommended" sites on your homepage!
-
-![](images/listing/preview2.png)
-
